@@ -1,0 +1,23 @@
+C:\Documents and Settings\Shashwat Gupta\Local Settings\Application Data\Temporary Projects\Quadratic Equation\bin\Debug\Quadratic Equation.exe
+C:\Documents and Settings\Shashwat Gupta\Local Settings\Application Data\Temporary Projects\Quadratic Equation\bin\Debug\Quadratic Equation.pdb
+C:\Documents and Settings\Shashwat Gupta\Local Settings\Application Data\Temporary Projects\Quadratic Equation\bin\Debug\Quadratic Equation.xml
+C:\Documents and Settings\Shashwat Gupta\Local Settings\Application Data\Temporary Projects\Quadratic Equation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Shashwat Gupta\Local Settings\Application Data\Temporary Projects\Quadratic Equation\obj\Debug\Quadratic_Equation.Form1.resources
+C:\Documents and Settings\Shashwat Gupta\Local Settings\Application Data\Temporary Projects\Quadratic Equation\obj\Debug\Quadratic_Equation.Resources.resources
+C:\Documents and Settings\Shashwat Gupta\Local Settings\Application Data\Temporary Projects\Quadratic Equation\obj\Debug\Quadratic Equation.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Shashwat Gupta\Local Settings\Application Data\Temporary Projects\Quadratic Equation\obj\Debug\Quadratic Equation.exe
+C:\Documents and Settings\Shashwat Gupta\Local Settings\Application Data\Temporary Projects\Quadratic Equation\obj\Debug\Quadratic Equation.xml
+C:\Documents and Settings\Shashwat Gupta\Local Settings\Application Data\Temporary Projects\Quadratic Equation\obj\Debug\Quadratic Equation.pdb
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Quadratic Equation\obj\Debug\Quadratic Equation.exe
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Quadratic Equation\obj\Debug\Quadratic Equation.xml
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Quadratic Equation\obj\Debug\Quadratic Equation.pdb
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Quadratic Equation\bin\Debug\Quadratic Equation.exe
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Quadratic Equation\bin\Debug\Quadratic Equation.pdb
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Quadratic Equation\bin\Debug\Quadratic Equation.xml
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Quadratic Equation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Quadratic Equation\obj\Debug\Quadratic_Equation.Form1.resources
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Quadratic Equation\obj\Debug\Quadratic_Equation.Resources.resources
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Quadratic Equation\obj\Debug\Quadratic Equation.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Shashwat Gupta\My Documents\Shashwat\Projects\HTML\Internet\Quadratic Equation\obj\Debug\Quadratic Equation.exe
+C:\Documents and Settings\Shashwat Gupta\My Documents\Shashwat\Projects\HTML\Internet\Quadratic Equation\obj\Debug\Quadratic Equation.xml
+C:\Documents and Settings\Shashwat Gupta\My Documents\Shashwat\Projects\HTML\Internet\Quadratic Equation\obj\Debug\Quadratic Equation.pdb

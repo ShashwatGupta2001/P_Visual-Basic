@@ -1,0 +1,10 @@
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Simultaneous Equation\bin\Debug\Simultaneous Equation.exe
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Simultaneous Equation\bin\Debug\Simultaneous Equation.pdb
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Simultaneous Equation\bin\Debug\Simultaneous Equation.xml
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Simultaneous Equation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Simultaneous Equation\obj\Debug\Simultaneous_Equation.Form1.resources
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Simultaneous Equation\obj\Debug\Simultaneous_Equation.Resources.resources
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Simultaneous Equation\obj\Debug\Simultaneous Equation.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Simultaneous Equation\obj\Debug\Simultaneous Equation.exe
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Simultaneous Equation\obj\Debug\Simultaneous Equation.xml
+C:\Documents and Settings\Shashwat Gupta\My Documents\Visual Studio 2008\Projects\Simultaneous Equation\obj\Debug\Simultaneous Equation.pdb
